@@ -1,10 +1,8 @@
 ## Broadcast Server
 ```
 # Start the server
-broadcast_server.py -s
-broadcast_server.py --start
+broadcast_server.py -s/--start
 
 # Connect the client to the server
-broadcast_server.py -c
-broadcast_server.py --connect
+broadcast_server.py -c/--connect
 ```
