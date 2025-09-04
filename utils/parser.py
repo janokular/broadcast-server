@@ -15,4 +15,3 @@ def parse_arguments():
                        help='connect the client to the server')
 
     return parser.parse_args()
-  
