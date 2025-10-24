@@ -1,4 +1,4 @@
-## Broadcast Server
+## Broadcast server
 ```
 # Start the server
 broadcast_server.py -s/--start
